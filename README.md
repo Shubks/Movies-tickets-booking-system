@@ -1,5 +1,3 @@
-# Movies-tickets-booking-system
- How to make the Movies tickets booking system  using c progarmming
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
